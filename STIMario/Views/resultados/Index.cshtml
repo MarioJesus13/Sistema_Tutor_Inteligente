@@ -1,0 +1,41 @@
+﻿@model IEnumerable<STIMario.Models.Resultados>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.RespuestasCorrectas)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RespuestasIncorrectas)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RespuestasCorrectas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RespuestasIncorrectas)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IDresultados">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IDresultados">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IDresultados">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

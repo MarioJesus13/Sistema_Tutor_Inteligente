@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\STIMario\STIMario\bin\Debug\netcoreapp2.0\STIMario.deps.json
+C:\Users\HP\source\repos\STIMario\STIMario\bin\Debug\netcoreapp2.0\STIMario.runtimeconfig.json
+C:\Users\HP\source\repos\STIMario\STIMario\bin\Debug\netcoreapp2.0\STIMario.runtimeconfig.dev.json
+C:\Users\HP\source\repos\STIMario\STIMario\bin\Debug\netcoreapp2.0\STIMario.dll
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.AssemblyInfo.cs
+C:\Users\HP\source\repos\STIMario\STIMario\bin\Debug\netcoreapp2.0\STIMario.pdb
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.dll
+C:\Users\HP\source\repos\STIMario\STIMario\obj\Debug\netcoreapp2.0\STIMario.pdb
